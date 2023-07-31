@@ -1,0 +1,19 @@
+{
+  "name": "com.parseplatform.parseunity",
+  "version": "1.0.0",
+  "displayName": "Parse .NET SDK (Unity)",
+  "description": "This SDK allows your Unity application to communicate to a Parse Server instance.",
+  "unity": "2019.4",
+  "dependencies": {},
+  "keywords": [
+    "parse",
+    "parse-platform",
+    "parse-server"
+  ],
+  "author": {
+    "name": "Keerthik",
+    "email": "keerthik@bitgym.com",
+    "url": "https://github.com/keerthik/Parse-SDK-dotNET"
+  },
+  "type": "library"
+}
